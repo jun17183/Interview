@@ -21,8 +21,9 @@
 - **캡슐화** : 속성과 기능을 하나(클래스)로 묶고 실제 구현 내용 일부를 외부에 감추어 은닉함
 
 #### Overloading vs Overriding
-**Overloading** : 다중 정의. 메서드 명, 리턴타입 일치. 매개변수명, 개수 일치 X
-**Overriding** : 상속받은 메서드 재정의
+- **Overloading** : 다중 정의. 메서드 명, 리턴타입 일치. 매개변수명, 개수 일치 X
+
+- **Overriding** : 상속받은 메서드 재정의
 
 #### OOP 5가지 법칙
 - **Single Responsibility Principle, 단일 책임 법칙** : 각 클래스는 목적을 하나씩만 가지고 그에 대한 책임을 져야 한다.
