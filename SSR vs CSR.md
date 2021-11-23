@@ -1,4 +1,4 @@
-### SSR vs CSR ###
+# SSR vs CSR
 
 ### SSR
 
