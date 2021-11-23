@@ -1,6 +1,6 @@
 ### SSR vs CSR ###
 
-#### SSR
+### SSR
 
 - Server Side Rendering의 약자
 - SSR은 서버에서 사용자에게 보여줄 페이지를 모두 구성하여 사용자에게 페이지를 보여주는 방식이다.
